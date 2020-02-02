@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "376263303979",
+    "firebase_url": "https://electrothon-36de8.firebaseio.com",
+    "project_id": "electrothon-36de8",
+    "storage_bucket": "electrothon-36de8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376263303979:android:780be00cf1e5dd2ce0db6e",
+        "android_client_info": {
+          "package_name": "com.codingwithmitch.googlemaps2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376263303979-8urergsibv0ahp3hdcu1unhuma3fg0t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcrd4leKBTqnAVQAZHfJPnbDD8elvfb04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376263303979-8urergsibv0ahp3hdcu1unhuma3fg0t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
